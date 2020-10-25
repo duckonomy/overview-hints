@@ -1,7 +1,7 @@
 {
   "name": "Overview Hints",
   "description": "Keyboard hints for overview windows.",
-  "uuid": "contact@duckonomy.com",
+  "uuid": "gnome@duckonomy.com",
   "shell-version": [
     "3.38"
   ]

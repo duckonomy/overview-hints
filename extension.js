@@ -20,6 +20,7 @@
 
 class Extension {
     constructor() {
+      console.log("awesome");
     }
 
     enable() {
