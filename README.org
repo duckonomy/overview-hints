@@ -1,0 +1,3 @@
+#+TITLE: Overview Hints Gnome Extension
+In Overview ~Super + Space~
+Global Keybinding ~Super + Space~
