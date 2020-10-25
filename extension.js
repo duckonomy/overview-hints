@@ -19,17 +19,17 @@
 /* exported init */
 
 class Extension {
-    constructor() {
-      console.log("awesome");
-    }
+  constructor() {
+    console.log("awesome");
+  }
 
-    enable() {
-    }
+  enable() {
+  }
 
-    disable() {
-    }
+  disable() {
+  }
 }
 
 function init() {
-    return new Extension();
+  return new Extension();
 }
